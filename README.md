@@ -1,4 +1,3 @@
-# About-Us
 # 🤖 RoboAIX (Robotics & AI eXperience)
 
 **RoboAIX (Robotics & AI eXperience)** is a dynamic learning hub and innovation partner, committed to shaping the future through hands-on education and project development in **Robotics and Artificial Intelligence**.
